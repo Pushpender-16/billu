@@ -37,7 +37,7 @@ const Footer = () => {
           {/* part3 */}
           <div className='part3'>
             <h5>Customer Assistance</h5>
-            <br />
+            
             <a href="mailto:care@piyushshekhawat16@gmail.com" className='email'>piyushshekhawat16@gmail.com</a>
           </div>
           {/* part4 */}

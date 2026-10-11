@@ -49,7 +49,7 @@ function App() {
 
           <Menu image="https://billu.co.in/assets/img/hair-cut-5.png" alt="not seen"
             title="Haircut + Beard Or Shave"
-            time="Haircut + Beard Or Shave" time="15min."
+            time = "15min."
             rs=" ₹299" />
 
           <Menu image="https://billu.co.in/assets/img/hair-cut.png" alt="not seen"
@@ -170,7 +170,7 @@ function App() {
 
           <Menu image="https://billu.co.in/assets/img/hair-cut-5.png" alt="not seen"
             title="Haircut + Beard Or Shave"
-            time="Haircut + Beard Or Shave" time="15min."
+            time="15min."
             rs=" ₹299" />
 
           <Menu image="https://billu.co.in/assets/img/hair-cut.png" alt="not seen"

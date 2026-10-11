@@ -152,7 +152,7 @@ flexWrap:"nowrap",
           <div className="main" style={{ marginTop: "68px" }}>
             <div className="block1">
               <div>
-                <h6>Verified Experts</h6>
+                <h6 style={{paddingBottom:"6px", fontSize:"10px"}}  >Verified Experts</h6>
                 <p>
                   All Billu professionals are KYC verified and background
                   <br />
@@ -171,7 +171,7 @@ flexWrap:"nowrap",
 
             <div className="block2">
               <div>
-                <h6>Experienced Professional</h6>
+                <h6 style={{paddingBottom:"6px", fontSize:"10px"}}>Experienced Professional</h6>
                 <p>
                   All Billu professionals have 1+ years of relevant
                   <br />
@@ -190,7 +190,7 @@ flexWrap:"nowrap",
 
             <div className="block3">
               <div className="b3">
-                <h6>Dedicated Support</h6>
+                <h6 style={{paddingBottom:"6px", fontSize:"10px"}}>Dedicated Support</h6>
                 <p>
                   The Billu care team is always available to ensure
                   <br />
