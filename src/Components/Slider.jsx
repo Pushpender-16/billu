@@ -14,12 +14,11 @@ function Slider() {
       autoplay={{ delay: 3000 }}
       loop={true}
     >
-      <SwiperSlide><img src="https://billu.co.in/assets/img/bne02.jpg" alt="not seen" /></SwiperSlide>
-      <SwiperSlide><img src="https://billu.co.in/assets/img/bne03.jpg" alt="not seen" /></SwiperSlide>
-      <SwiperSlide><img src="https://billu.co.in/assets/img/bne01.jpg" alt="not seen" /></SwiperSlide>
+      <SwiperSlide><img src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/bne02.jpg" alt="not seen" /></SwiperSlide>
+      <SwiperSlide><img src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/bne03.jpg" alt="not seen" /></SwiperSlide>
+      <SwiperSlide><img src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/bne01.jpg" alt="not seen" /></SwiperSlide>
     </Swiper>
-  );  
-// https://billu.co.in/assets/img/bne01.jpg
- }
+  );
+}
 
 export default Slider;

@@ -11,7 +11,7 @@ const Footer = () => {
           <div className='part1' >
 
             <div>
-              <img src="https://billu.co.in/assets/img/customer_logo.svg" alt="" />
+              <img src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/customer_logo.svg" alt="" />
               </div>
             
             <p style={{
@@ -37,7 +37,7 @@ const Footer = () => {
           {/* part3 */}
           <div className='part3'>
             <h5>Customer Assistance</h5>
-            
+            <br />
             <a href="mailto:care@piyushshekhawat16@gmail.com" className='email'>piyushshekhawat16@gmail.com</a>
           </div>
           {/* part4 */}
@@ -48,8 +48,8 @@ const Footer = () => {
               <div
               style={{display:"flex",  gap:"10px"}}
               >
-            <a href="https://play.google.com/store/apps/details?id=com.billu.care"><img style={{objectFit: "contain", borderRadius: "6px" }} src="https://billu.co.in/assets/img/google-play.svg" alt="" /></a>
-            <a href="https://apps.apple.com/in/app/billu-customer/id1559235086"><img style={{  objectFit: "contain", borderRadius: "6px" }} src="https://billu.co.in/assets/img/apple-app-store.svg" alt="" /></a>
+            <a href="https://play.google.com/store/apps/details?id=com.billu.care"><img style={{objectFit: "contain", borderRadius: "6px" }} src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/google-play.svg" alt="" /></a>
+            <a href="https://apps.apple.com/in/app/billu-customer/id1559235086"><img style={{  objectFit: "contain", borderRadius: "6px" }} src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/apple-app-store.svg" alt="" /></a>
 </div>
           </div>
         </div>
@@ -57,7 +57,7 @@ const Footer = () => {
 
         <hr />
 
-        <p style={{ textAlign: "center", paddingTop:"12px", fontSize:"12px", color:"#555",  }} >Copyright 2026 ©    <span style={{ color: "#e91e8c" }} > Billu Personal care Private Limited.</span> All rights reserved</p>
+        <p style={{ textAlign: "center", paddingBottom: "26px",  paddingTop:"12px", fontSize:"12px", color:"#555",  }} >Copyright 2026 ©    <span style={{ color: "#e91e8c" }} > Billu Personal care Private Limited.</span> All rights reserved</p>
 
       </section>
 

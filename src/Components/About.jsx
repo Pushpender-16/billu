@@ -30,8 +30,8 @@ const About = () => {
           {/* Part 1 */}
           <div>
             <img
-              src="https://billu.co.in/assets/img/stylist.png"
-              alt="https://billu.co.in/assets/img/stylist.png"
+              src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/stylist.png"
+              alt=""
             />
           </div>
 
@@ -48,11 +48,11 @@ const About = () => {
 
             <p  
             style={{
-
+padding:"20px",
 fontSize:"small",
 flexWrap:"nowrap",
-// backgroundColor:"",
-// color:"green"
+backgroundColor:"green",
+color:"green"
 
 
             }}
@@ -129,7 +129,7 @@ flexWrap:"nowrap",
                     objectFit: "contain",
                     borderRadius: "6px",
                   }}
-                  src="https://billu.co.in/assets/img/google-play.svg"
+                  src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/google-play.svg"
                   alt=""
                 />
               </a>
@@ -141,7 +141,7 @@ flexWrap:"nowrap",
                     objectFit: "contain",
                     borderRadius: "6px",
                   }}
-                  src="https://billu.co.in/assets/img/apple-app-store.svg"
+                  src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/apple-app-store.svg"
                   alt=""
                 />
               </a>
@@ -152,7 +152,7 @@ flexWrap:"nowrap",
           <div className="main" style={{ marginTop: "68px" }}>
             <div className="block1">
               <div>
-                <h6 style={{paddingBottom:"6px", fontSize:"10px"}}  >Verified Experts</h6>
+                <h6>Verified Experts</h6>
                 <p>
                   All Billu professionals are KYC verified and background
                   <br />
@@ -163,7 +163,7 @@ flexWrap:"nowrap",
               <div>
                 <img
                   style={{ height: "48px" }}
-                  src="https://billu.co.in/assets/img/get-billu-1.svg"
+                  src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/get-billu-1.svg"
                   alt=""
                 />
               </div>
@@ -171,7 +171,7 @@ flexWrap:"nowrap",
 
             <div className="block2">
               <div>
-                <h6 style={{paddingBottom:"6px", fontSize:"10px"}}>Experienced Professional</h6>
+                <h6>Experienced Professional</h6>
                 <p>
                   All Billu professionals have 1+ years of relevant
                   <br />
@@ -182,7 +182,7 @@ flexWrap:"nowrap",
               <div>
                 <img
                   style={{ height: "48px" }}
-                  src="https://billu.co.in/assets/img/get-billu-2.svg"
+                  src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/get-billu-2.svg"
                   alt=""
                 />
               </div>
@@ -190,7 +190,7 @@ flexWrap:"nowrap",
 
             <div className="block3">
               <div className="b3">
-                <h6 style={{paddingBottom:"6px", fontSize:"10px"}}>Dedicated Support</h6>
+                <h6>Dedicated Support</h6>
                 <p>
                   The Billu care team is always available to ensure
                   <br />
@@ -201,7 +201,7 @@ flexWrap:"nowrap",
               <div>
                 <img
                   style={{ height: "48px" }}
-                  src="https://billu.co.in/assets/img/git-billu-3.svg"
+                  src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/git-billu-3.svg"
                   alt=""
                 />
               </div>

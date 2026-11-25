@@ -3,9 +3,8 @@ import "./Carddeal.css"
 const Carddeal = () => {
   return (
     <>
-    {/* 1 */}
     <div class="cardm">
-  <img src="https://billu.co.in/assets/img/salon.png" alt="..."/>
+  <img src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/salon-4.png" alt="..."/>
   <div class="card-body">
    
     <p class="card-text">Dasha Mahagun Mart, Sector 78 - Noida</p>
@@ -19,7 +18,7 @@ const Carddeal = () => {
 
 {/* 2 */}
     <div class="cardm">
-  <img src="https://billu.co.in/assets/img/salon-1.png" alt="..."/>
+  <img src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/salon-1.png" alt="..."/>
   <div class="card-body">
    
     <p class="card-text">Dasha Mahagun Mart, Sector 78 - Noida</p>
@@ -33,7 +32,7 @@ const Carddeal = () => {
 
 {/* 3 */}
     <div class="cardm">
-  <img src="https://billu.co.in/assets/img/salon-2.png" alt="..."/>
+  <img src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/salon.png" alt="..."/>
   <div class="card-body">
    
     <p class="card-text">Dasha Mahagun Mart, Sector 78 - Noida</p>
@@ -46,7 +45,7 @@ const Carddeal = () => {
 
 {/* 4 */}
     <div class="cardm">
-  <img src="https://billu.co.in/assets/img/salon-3.png" alt="..."/>
+  <img src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/salon-3.png" alt="..."/>
   <div class="card-body">
    
     <p class="card-text">Dasha Mahagun Mart, Sector 78 - Noida</p>
@@ -59,7 +58,7 @@ const Carddeal = () => {
 
    {/* 5  */}
     <div class="cardm">
-  <img src="https://billu.co.in/assets/img/salon-4.png" alt="..."/>
+  <img src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/salon-5.png" alt="..."/>
   <div class="card-body">
    
     <p class="card-text">Dasha Mahagun Mart, Sector 78 - Noida</p>
@@ -73,7 +72,7 @@ const Carddeal = () => {
 
    {/* 6  */}
    <div class="cardm">
-  <img src="https://billu.co.in/assets/img/salon-5.png" alt="..."/>
+  <img src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/salon-2.png" alt="..."/>
   <div class="card-body">
    
     <p class="card-text">Dasha Mahagun Mart, Sector 78 - Noida</p>

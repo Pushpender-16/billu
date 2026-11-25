@@ -49,12 +49,8 @@ li {
     transition: 0.3s;
 }
 
-a{
-    text-decoration: none;
-    list-style: none;
-    color: black;
-}
-a:hover {
+
+li:hover {
     color: #e91e8c;
 }
 

@@ -25,34 +25,34 @@ function App() {
         {/* men */}
         <div className='menu' >
           <Menu
-            image="https://billu.co.in/assets/img/hair-cut-1.png" alt="not seen"
+            image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-1.png" alt="not seen"
             title=" Haircut + Head Massage"
             time="15min."
             rs="₹349"
           />
 
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-2.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-2.png" alt="not seen"
             title={"Haircut + Beard Or Shave \n + Head Massage"}
             time="15min."
             rs=" ₹449" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-3.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-3.png" alt="not seen"
             title={<>Beard Or Shave + Head <br />Massage</>}
             time="10min."
             rs=" ₹299" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-4.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-4.png" alt="not seen"
             title="Head Massage"
             time="15min."
             rs=" ₹399" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-5.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-5.png" alt="not seen"
             title="Haircut + Beard Or Shave"
-            time = "15min."
+            time="Haircut + Beard Or Shave" time="15min."
             rs=" ₹299" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut.png" alt="not seen"
             title="Haircut + Head Massage"
             time="10min."
             rs=" ₹299" />
@@ -63,31 +63,31 @@ function App() {
         {/* women */}
         <div className='menu' >
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-11.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-11.png" alt="not seen"
             title="Full Face Threading"
             time="15min."
             rs="₹499" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-10.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-10.png" alt="not seen"
             title={"Aloevera Full Arms + Full \n Legs + Underarms"}
             time="20min."
             rs="₹399" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-9.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-9.png" alt="not seen"
             title={"Aloevera Full Arms + Full\n Legs + Underarms"}
             time="10min."
             rs="₹299" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-8.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-8.png" alt="not seen"
             title="Basic Pedicure"
             time="15min."
             rs="₹349" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-7.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-7.png" alt="not seen"
             title={"Rica Wax Full Body\n(Exclude Bikini & Butt)"}
             time="10min."
             rs="₹299" />
-          <Menu image="https://billu.co.in/assets/img/hair-cut-6.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-6.png" alt="not seen"
             title="Basic Manicure"
             time="10min."
             rs="₹299" />
@@ -111,8 +111,8 @@ function App() {
         justifyContent: 'center',
 
       }} >
-        <div><img src="https://billu.co.in/assets/img/ipl.png" width={"600px"} height={"300px"} alt="not seen" /></div>
-        <div><img src="https://billu.co.in/assets/img/plan.png" width={"600px"} height={"300px"} alt="not seen" /></div>
+        <div><img src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/ipl.png" width={"600px"} height={"300px"} alt="not seen" /></div>
+        <div><img src="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/plan.png" width={"600px"} height={"300px"} alt="not seen" /></div>
       </div></section>
 
 
@@ -146,34 +146,34 @@ function App() {
 
           {/* boy */}
           <Menu
-            image="https://billu.co.in/assets/img/hair-cut-1.png" alt="not seen"
+            image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-1.png" alt="not seen"
             title=" Haircut + Head Massage"
             time="15min."
             rs="₹349"
           />
 
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-2.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-2.png" alt="not seen"
             title={"Haircut + Beard Or Shave \n+ Head Massage"}
             time="15min."
             rs=" ₹449" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-3.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-3.png" alt="not seen"
             title={<>Beard Or Shave + Head <br />Massage</>}
             time="10min."
             rs=" ₹299" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-4.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-4.png" alt="not seen"
             title="Head Massage"
             time="15min."
             rs=" ₹399" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-5.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-5.png" alt="not seen"
             title="Haircut + Beard Or Shave"
-            time="15min."
+            time="Haircut + Beard Or Shave" time="15min."
             rs=" ₹299" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut.png" alt="not seen"
             title="Haircut + Head Massage"
             time="10min."
             rs=" ₹299" />
@@ -186,31 +186,31 @@ function App() {
         {/* girls */}
         <div className='menu' >
         
-          <Menu image="https://billu.co.in/assets/img/hair-cut-11.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-11.png" alt="not seen"
             title="Full Face Threading"
             time="15min."
             rs="₹499" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-10.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-10.png" alt="not seen"
             title={"Aloevera Full Arms + Full \nLegs + Underarms"}
             time="20min."
             rs="₹399" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-9.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-9.png" alt="not seen"
             title={"Aloe Vera Wax Full Body\n (Exclude Bikini & Butt)"}
             time="10min."
             rs="₹299" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-8.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-8.png" alt="not seen"
             title="Basic Pedicure"
             time="15min."
             rs="₹349" />
 
-          <Menu image="https://billu.co.in/assets/img/hair-cut-7.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-7.png" alt="not seen"
             title={"Rica Wax Full Body \n(Exclude Bikini & Butt)"}
             time="10min."
             rs="₹299" />
-          <Menu image="https://billu.co.in/assets/img/hair-cut-6.png" alt="not seen"
+          <Menu image="https://billu.co.in/wp-content/themes/billu/billuNew/assets/img/hair%20cut-6.png" alt="not seen"
             title="Basic Manicure"
             time="10min."
             rs="₹299" />
@@ -265,6 +265,7 @@ function App() {
       <br />
       <br /><br />
       <Footer />
+
 
     </>
   )
